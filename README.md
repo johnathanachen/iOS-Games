@@ -6,5 +6,5 @@
 </h1>
 <p align="center">A list of games built for iOS during practice</p>
 
-## Card Game
+- Card Game
 
